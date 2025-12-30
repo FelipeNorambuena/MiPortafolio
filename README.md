@@ -54,7 +54,7 @@ npm install
 npm run dev
 ```
 
-El sitio estará disponible en `http://localhost:5173`
+El sitio estará disponible en `http://`
 
 ## 🔧 Configuración
 
@@ -236,7 +236,6 @@ El tema se aplica mediante la clase `dark` en el elemento `<html>`. Verifica que
 ## 📧 Contacto
 
 - **Email**: felipeignacionc24@gmail.com
-- **WhatsApp**: +56 9 7416 1396
 
 ## 📄 Licencia
 
@@ -244,5 +243,5 @@ El tema se aplica mediante la clase `dark` en el elemento `<html>`. Verifica que
 
 ---
 
-Desarrollado con ❤️ usando React, Vite y Tailwind CSS
+Desarrollado con React, Vite y Tailwind CSS
 
